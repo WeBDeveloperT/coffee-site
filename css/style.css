@@ -84,8 +84,8 @@ section{
     z-index: 1000;
 }
 
-.header .logo img{
-    height: 6rem;
+.header .logo h1{
+    font-size: 6em;
 }
 
 .header .navbar a{
